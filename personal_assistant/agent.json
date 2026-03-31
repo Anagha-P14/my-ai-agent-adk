@@ -1,0 +1,5 @@
+{
+  "name": "illustration_agent",
+  "description": "An agent that responds to the prompt.",
+  "endpoint": "http://localhost:8080/run_sse"
+}
